@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvsri&label=Profile%20views&color=0e75b6&style=flat" alt="harshvsri" /> </p>
 
-- 🔭 I’m currently working on **a personal project**
+- 🔭 I’m currently working on **The Odin Project**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
