@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://harshvsri.github.io/myWebsite/](https://harshvsri.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Click here ...](https://harshvsri.github.io/portfolio/)
 
 - 💬 Ask me about **MERN**
 
