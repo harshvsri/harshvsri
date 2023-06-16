@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 💬 Ask me about **MERN**
 - 📫 How to reach me: **harshvsri@gmail.com**
-- ⚡ Fun fact: **I think I am funny**
 
 ---
 
