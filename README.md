@@ -8,7 +8,7 @@
 ---
 
 # 🚀 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,svelte,react,nextjs,tailwindcss,mongodb,vscode,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,tailwindcss,mongodb,vscode,git,linux)](https://skillicons.dev)
 
 ---
 
