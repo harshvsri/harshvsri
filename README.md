@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on **The Odin Project**
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 💬 Ask me about **MERN**
-- 📫 How to reach me: **harshvsri@gmail.com**
 
 ---
 
