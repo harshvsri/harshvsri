@@ -11,7 +11,7 @@
 ---
 
 # 🚀 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,jquery,webpack,js,ts,react,materialui,nodejs,express,mongodb,postman,c,java,python,vscode,git,github,babel,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,jquery,webpack,js,ts,react,vite,materialui,nodejs,express,mongodb,postman,c,java,python,vscode,git,github,babel,linux)](https://skillicons.dev)
 
 ---
 
