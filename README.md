@@ -5,7 +5,7 @@
 # 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **The Odin Project**
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Development**
 - 💬 Ask me about **MERN**
 
 ---
