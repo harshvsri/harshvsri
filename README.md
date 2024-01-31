@@ -4,14 +4,13 @@
 
 # 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **The Odin Project**
-- 🌱 I’m currently learning **Full Stack Development**
+- ⌨️ **Full Stack Dev**
 - 💬 Ask me about **MERN**
 
 ---
 
 # 🚀 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,jquery,webpack,js,ts,react,vite,materialui,nodejs,express,mongodb,postman,c,java,python,vscode,git,github,babel,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,js,ts,react,nodejs,express,nginx,mongodb,postman,vite,webpack,babel,materialui,java,c,python,vscode,git,github,linux)](https://skillicons.dev)
 
 ---
 
