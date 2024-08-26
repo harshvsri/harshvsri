@@ -4,13 +4,13 @@
 
 # 🧑‍💻 About Me
 
-- ⌨️ **Full Stack Dev**
-- 💬 Ask me about **MERN**
+- ⌨️ **Sofware Engineer**
+- 💬 Ask me about **Web, DevOps, Databases**
 
 ---
 
 # 🚀 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,js,ts,react,nodejs,express,nginx,mongodb,postman,vite,webpack,babel,materialui,java,c,python,vscode,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,js,ts,react,nodejs,express,docker,nginx,mongodb,postgres,redis,mysql,postman,vite,webpack,babel,materialui,java,c,python,vscode,git,github,linux)](https://skillicons.dev)
 
 ---
 
