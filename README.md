@@ -12,7 +12,7 @@
 ---
 
 # 🚀 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,js,ts,react,nodejs,express,docker,nginx,mongodb,postgres,redis,mysql,postman,vite,webpack,babel,materialui,java,c,python,vscode,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,ts,js,python,java,c,html,css,bootstrap,sass,tailwindcss,react,nodejs,express,docker,nginx,mongodb,postgres,redis,mysql,postman,vite,webpack,babel,materialui,vscode,git,github,linux)](https://skillicons.dev)
 
 ---
 
