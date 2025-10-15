@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshvsri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</p>
-
 # 🧑‍💻 About Me
 
 - 💬 Ask me about **Web, Low Level Stuff, DevOps, Databases**
