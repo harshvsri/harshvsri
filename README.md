@@ -4,7 +4,6 @@
 
 # 🧑‍💻 About Me
 
-- ⌨️ **Software Engineer**
 - 💬 Ask me about **Web, Low Level Stuff, DevOps, Databases**
 - 💪 **BTW I use Linux, Neovim and Rust**
 
